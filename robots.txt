@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://horisocepou.pages.dev/sitemap.xml
